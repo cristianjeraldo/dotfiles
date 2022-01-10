@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cristian.jeraldo.uk@hotmail.com
+	name = cristian jeraldo
